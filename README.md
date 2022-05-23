@@ -1,4 +1,4 @@
-- Hi, I’m @TcHiZo 👋🏻
+- Hi, I’m @TcHiiZoO 👋🏻
 - I’m interested in programming, development and hacking ☣︎ 💻
 - I’m currently learning Python 🪱
 - I’m looking to collaborate on a project in python for data analysis 📈
